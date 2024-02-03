@@ -1,0 +1,13 @@
+{
+  "template": "https://github.com/ogontaro/templates_template",
+  "commit": "dbbf8e1fedd322b308ba639be65d4b34e5aa93f6",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "c",
+      "github_runner_scale_set_name": "ubuntu-latest",
+      "_template": "https://github.com/ogontaro/templates_template"
+    }
+  },
+  "directory": null
+}
